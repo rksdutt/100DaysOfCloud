@@ -3,7 +3,7 @@ title: "Same Region Replication(SRR) Amazon S3-Replication."
 datePublished: Sat Sep 14 2024 14:15:27 GMT+0000 (Coordinated Universal Time)
 cuid: cm128c4sr000509kz1wda4trz
 slug: same-region-replicationsrr-amazon-s3-replication
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1726323939390/ca3d1ab6-980f-43f0-a867-c515eef26397.jpeg
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1726324227006/b5b78422-941e-4125-84ec-847e6224d9e5.jpeg
 tags: ssr, aws-s3-versioning, aws-s3-replication
 
 ---
