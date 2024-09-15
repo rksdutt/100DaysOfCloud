@@ -3,6 +3,7 @@ title: "Deployed a Voting App & Set up a KinD & Argo CD with Kubernetes cluster 
 datePublished: Sat Sep 14 2024 22:14:28 GMT+0000 (Coordinated Universal Time)
 cuid: cm12pg5a000020amf2wv81yub
 slug: deployed-a-voting-app-set-up-a-kind-argo-cd-with-kubernetes-cluster-on-aws-ec2
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1726431133092/89cd014d-2279-46ce-bc88-7dd31ce491a3.jpeg
 tags: kubernetes, kind, argocd, polling-app
 
 ---
