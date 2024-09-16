@@ -1,8 +1,8 @@
 ---
-title: "Simplifying the S3 Lifecycle rule"
+title: "Boosting Performance and Cutting Costs with Simplified S3 Lifecycle Rules"
 datePublished: Mon Sep 16 2024 20:03:13 GMT+0000 (Coordinated Universal Time)
 cuid: cm15fn20n000k09jwhvse82p0
-slug: simplifying-the-s3-lifecycle-rule
+slug: boosting-performance-and-cutting-costs-with-simplified-s3-lifecycle-rules
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1726513228858/a37bcace-33fe-4e3a-a81b-a3a316e75821.jpeg
 tags: s3, s3-bucket, s3lifecyclerule
 
