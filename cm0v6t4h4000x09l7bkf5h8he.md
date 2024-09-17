@@ -3,7 +3,7 @@ title: "AWS S3 : The Complete Solution for Hosting a Static Websites"
 datePublished: Mon Sep 09 2024 15:58:18 GMT+0000 (Coordinated Universal Time)
 cuid: cm0v6t4h4000x09l7bkf5h8he
 slug: aws-s3-the-complete-solution-for-hosting-static-websites
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1725910871145/35773637-3cef-4376-9aed-a5c831986e62.jpeg
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1726569364236/d081ffb0-91e0-48ee-a96b-8201cb17b992.jpeg
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1725903497128/b56232e2-28e9-4d9b-ae37-10b1d1142366.webp
 tags: s3, static-website, aws-s3, aws-s3-for-beginners
 
