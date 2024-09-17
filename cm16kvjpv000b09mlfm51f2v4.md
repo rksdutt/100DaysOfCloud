@@ -3,6 +3,7 @@ title: "Temporary Access Made Easy : Secure S3 Object Management with Presigned 
 datePublished: Tue Sep 17 2024 15:17:33 GMT+0000 (Coordinated Universal Time)
 cuid: cm16kvjpv000b09mlfm51f2v4
 slug: temporary-access-made-easy-secure-s3-object-management-with-presigned-urls
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1726593597736/acdfc81d-d3ab-4faf-b7ab-c71f20a84f9b.jpeg
 tags: s3, presignedurl, getobjectaccessthroughpresignedurl
 
 ---
