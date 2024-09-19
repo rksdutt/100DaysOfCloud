@@ -4,7 +4,7 @@ datePublished: Sat Sep 14 2024 14:15:27 GMT+0000 (Coordinated Universal Time)
 cuid: cm128c4sr000509kz1wda4trz
 slug: same-region-replicationsrr-amazon-s3-replication
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1726569142709/3f973bd2-d963-4e93-8613-76df103f7f4c.jpeg
-ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1726569309199/03e65aa6-9936-46cf-947d-607f1402e904.avif
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1726647858317/98bf6f3a-8579-4815-bc9e-8eaf01a0b268.jpeg
 tags: ssr, aws-s3-versioning, aws-s3-replication
 
 ---
@@ -49,7 +49,7 @@ In a nutshell Replication is responsible for keeping our data safe within a same
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1726316150592/55ec8bf0-fc8c-4e67-b177-332bd7c2ee7e.png align="center")
 
-Here is our replication rule for bucket which defing the source of the bucket where
+Here is our replication rule for bucket which define the source of the bucket.
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1726315248129/b6fbb38c-8b40-4536-af2d-9bdfbfcc85ad.png align="center")
 
