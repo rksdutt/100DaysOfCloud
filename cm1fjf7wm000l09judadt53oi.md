@@ -44,7 +44,7 @@ slug: amazon-rds-databasewith-mysql-and-make-it-cross-region-replica
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1727127983055/8a169ffc-477a-42b3-a813-326685d8f03b.png align="center")
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1727127984598/02ca5e1e-8c4e-45af-a4bd-04896d9c2a2f.png align="center")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1727129138415/f5f2e9da-7e4b-4f17-813b-88720c2482ca.jpeg align="center")
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1727127987577/89722b97-34e2-4f4c-bb6f-04c1592d3966.png align="center")
 
