@@ -1,8 +1,8 @@
 ---
-title: "Establish two Virtual Private Clouds (VPCs) and configure peering between them so they can ping each other using their IP addresses"
+title: "Establish two Virtual Private Clouds (VPCs) and configure peering between them so they can ping each other using their IP addresses. 0.0.0.0"
 datePublished: Sun Sep 22 2024 20:11:24 GMT+0000 (Coordinated Universal Time)
 cuid: cm1e0kp3b000h09ld7z2vfxs3
-slug: establish-two-virtual-private-clouds-vpcs-and-configure-peering-between-them-so-they-can-ping-each-other-using-their-ip-addresses
+slug: establish-two-virtual-private-clouds-vpcs-and-configure-peering-between-them-so-they-can-ping-each-other-using-their-ip-addresses-0000
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1727022337136/22863ac8-cdca-42ac-918b-21fc74b0ac09.jpeg
 tags: aws-vpc, subnet, vpc-peering, cidrblock, routertable, insternetgateway
 
