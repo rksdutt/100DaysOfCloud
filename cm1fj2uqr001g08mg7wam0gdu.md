@@ -3,6 +3,7 @@ title: "how to make rds"
 datePublished: Mon Sep 23 2024 21:37:10 GMT+0000 (Coordinated Universal Time)
 cuid: cm1fj2uqr001g08mg7wam0gdu
 slug: how-to-make-rds
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1727130595891/6fb35933-e776-470b-ab34-27297c8e2d5c.jpeg
 
 ---
 
