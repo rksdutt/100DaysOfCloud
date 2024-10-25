@@ -3,6 +3,7 @@ title: "🚀 My Jenkins Setup Journey: A Step-by-Step Guide 🚀"
 datePublished: Fri Oct 25 2024 19:43:59 GMT+0000 (Coordinated Universal Time)
 cuid: cm2p54jyl000309ld9fxq5ito
 slug: my-jenkins-setup-journey-a-step-by-step-guide
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1729885495515/85e3fccb-6fab-4e24-b5a9-3abab71564bd.jpeg
 tags: chrishtmas-project, secret-santa
 
 ---
