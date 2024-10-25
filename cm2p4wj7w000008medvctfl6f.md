@@ -3,6 +3,7 @@ title: "Project: Dynamic Three-Tier Voting Application"
 datePublished: Fri Oct 25 2024 19:37:45 GMT+0000 (Coordinated Universal Time)
 cuid: cm2p4wj7w000008medvctfl6f
 slug: project-dynamic-three-tier-voting-application
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1729885145737/16b168f2-90c5-4539-8ff0-cecb1bba6111.jpeg
 tags: frontend, backend, database, three-tier-application
 
 ---
