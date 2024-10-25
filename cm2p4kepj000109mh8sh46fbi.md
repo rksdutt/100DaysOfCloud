@@ -3,6 +3,7 @@ title: "Project: Optimizing Docker Images with Multi-Stage Builds for the Petcli
 datePublished: Fri Oct 25 2024 19:28:19 GMT+0000 (Coordinated Universal Time)
 cuid: cm2p4kepj000109mh8sh46fbi
 slug: project-optimizing-docker-images-with-multi-stage-builds-for-the-petclinic-application
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1729884532724/d77f435c-24a8-4dbe-b6d9-9254d8b12cf7.jpeg
 tags: dockerprojects
 
 ---
