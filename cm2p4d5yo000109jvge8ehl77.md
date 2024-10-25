@@ -3,6 +3,7 @@ title: "🚀 Restricting ROOT Access in Docker Containers 🚀"
 datePublished: Fri Oct 25 2024 19:22:41 GMT+0000 (Coordinated Universal Time)
 cuid: cm2p4d5yo000109jvge8ehl77
 slug: restricting-root-access-in-docker-containers
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1729884327125/6bf7a197-fc85-44f2-b0e4-d5b5335420da.jpeg
 tags: root-accees, root-access-inn-docker
 
 ---
